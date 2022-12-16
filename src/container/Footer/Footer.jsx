@@ -19,7 +19,7 @@ const Footer = () => (
 
       <div className='app__footer-links_logo'>
         <img src={images.dinenwine} alt="footer_logo"/>
-        <p className='p__opensans'>"lose youself in the music the moment you own it, u better never let it go"</p>
+        <p className='p__opensans'>"You Have The Freedom To Defend The World's Freedom And I Have The Freedom To Continue Moving Forward"</p>
         <img src={images.spoon} alt="spoon" className='spoon__img' style={{marginTop: '15'}}/>
         <div className='app__footer-links_icons'>
           <FiFacebook/>
